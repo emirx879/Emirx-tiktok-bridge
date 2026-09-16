@@ -1,13 +1,13 @@
 {
   "name": "emirx-tiktok-bridge",
   "version": "1.0.0",
-  "description": "EmirX TikTok Mods icin TikTok LIVE koprusu - chat ve hediyeleri toplar, /poll ile Minecraft'a verir",
+  "description": "EmirX TikTok Mods icin TikTok LIVE koprusu",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.19.2",
-    "tiktok-live-connector": "^1.2.9"
+    "tiktok-live-connector": "1.2.3"
   }
 }
